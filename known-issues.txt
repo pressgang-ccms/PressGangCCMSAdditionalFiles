@@ -1,0 +1,5 @@
+publican.xsl:
+ - Currently still has some references to the XSLT document function for the following docbook elements: <toc>, <bibliography>, <olink> and <glossary> 
+
+publican-custom.xsl:
+ - Currently still has some references to the XSLT document function for the following docbook elements: <toc>,	<bibliography>,	<olink> and <glossary>
